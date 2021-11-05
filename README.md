@@ -5,6 +5,7 @@ TRANSMISSION DELAY VERSUS PROPAGATION DELAY
 Name: LakshmiChaganti
 WIU Id: 921421942
 Webpage URL:http://www.wiu.edu/users/lsc112/
+
 Git URl: https://github.com/chagantila2/CN_PropDelay
 
 •	Data is delivered to a network in the form of packets in computer networks, and this kind of data transport is known as packet switching.

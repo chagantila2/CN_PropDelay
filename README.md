@@ -4,8 +4,6 @@ TRANSMISSION DELAY VERSUS PROPAGATION DELAY
 
 Name: LakshmiChaganti
 
-WIU Id: 921421942
-
 Webpage URL:http://www.wiu.edu/users/lsc112/
 
 Git URl: https://github.com/chagantila2/CN_PropDelay
